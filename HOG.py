@@ -1,3 +1,5 @@
+#URL: https://www.thepythoncode.com/article/hog-feature-extraction-in-python
+
 from skimage.io import imread
 from skimage.transform import resize
 from skimage.feature import hog
