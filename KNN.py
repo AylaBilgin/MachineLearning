@@ -1,3 +1,6 @@
+#Author: Erkan Şirin
+#URL: https://www.veribilimiokulu.com/naive-bayes-yontemiyle-siniflandirma-classification-with-naive-bayes-python-ile-uygulama/
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
