@@ -1,3 +1,6 @@
+#Author: Erkan Şirin
+#URL: https://www.veribilimiokulu.com/siniflandirma-notlari-18-random-forest-python-uygulama/
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
