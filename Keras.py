@@ -1,4 +1,4 @@
-#https://keras.io/examples/
+#URL: https://keras.io/examples/
 
 import numpy as np
 import tensorflow as tf
