@@ -1,3 +1,5 @@
+#URL: https://medium.com/@ekrem.hatipoglu/machine-learning-classification-support-vector-machine-kernel-trick-part-10-7ab928333158
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
